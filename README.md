@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 25-year-old software engineer from Jordan with experience in Next.js, React, and TypeScript.
+As an experienced software engineer with a passion for building robust and efficient applications, I bring a wealth of technical expertise to the table. With over 5 years of experience working with Next.js, React, and TypeScript, I have a proven track record of delivering high-quality software solutions on time.
 
 
 ## 🌐 Socials:
